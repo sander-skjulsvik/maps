@@ -1,0 +1,6 @@
+geopandas
+jupyter
+altair
+matplotlib
+descartes
+numpy
