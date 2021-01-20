@@ -11,3 +11,7 @@ Everything is in the jupyter, and when run will save the final figure.
 python specific requirements/dependencies listed in requirements.txt
 
 The realestate.csv file from the webscraping repo is also a requirement.
+
+## Results
+
+Resoults can be found in static/out, where i have stored final maps in different file formats.
